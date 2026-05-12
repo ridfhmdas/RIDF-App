@@ -1,5 +1,8 @@
 streamlit
 pandas
-matplotlib
+matplotlib.pyplot
 openpyxl
-xlrd
+copy
+datetime
+zipfile
+calendar
